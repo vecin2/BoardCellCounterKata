@@ -1,0 +1,4 @@
+Equals in a list should call equals for each object but it doesn't
+Iterator.remove to remove as you go through a list
+
+FindNextSection has passed. Next compute the maximum section
